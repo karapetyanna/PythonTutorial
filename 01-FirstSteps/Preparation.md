@@ -1,6 +1,6 @@
 # Preparation
 
-To do these tutorials, you'll need to an install of Python on your system (we will be using Python3). You'll also need a text editor. 
+To do these tutorials, you'll need to install Python on your system (we will be using Python 3). You'll also need a text editor. 
 
 ## Install Python 3
 
@@ -14,9 +14,11 @@ The best package for setting up Python on a Windows computer is [Anaconda](https
 
 While there is an Anaconda installation for Linux, the version provided by your package manager should be sufficient. 
 
-For Debian/Ubuntu derived system:
+For Debian/Ubuntu derived system, type the following in the terminal:
 
+```
 sudo apt-get install python3 python3-pip
+```
 
 ### Test the install
 
@@ -37,11 +39,13 @@ This should return with something like:
 Python 3.7.1
 ```
 
+You may have a different number, but be sure that the first one is a 3.
+
 ## Get a (good) text editor
 
-For writing code, good options are [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/) or [VSCode](https://code.visualstudio.com/). There are many, many other good options, including Python specific editors like [PyCharm](https://www.jetbrains.com/pycharm/), and the classics, like vi(m) or emacs. 
+For writing code, syntax highlighting is really handy. There are plenty of different pieces of software that will do this. Good options are [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/) or [VSCode](https://code.visualstudio.com/). There are many, many other good options, including Python specific IDE's like [PyCharm](https://www.jetbrains.com/pycharm/), and the classics, like vi(m) or emacs. 
 
-I recommend VSCode, and is what I use for presenting and preparing this talk.
+I recommend [VSCode](https://code.visualstudio.com/), and is what I use for presenting and preparing this talk.
 
 If you are using VSCode, you need to install the Python extension to get code highlighting. 
 
