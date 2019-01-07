@@ -45,12 +45,12 @@ You may have a different number, but be sure that the first one is a 3.
 
 For writing code, syntax highlighting is really handy. There are plenty of different pieces of software that will do this. Good options are [Notepad++](https://notepad-plus-plus.org/download/v7.6.2.html), [Atom](https://atom.io/), [Sublime](https://www.sublimetext.com/) or [VSCode](https://code.visualstudio.com/). There are many, many other good options, including Python specific IDE's like [PyCharm](https://www.jetbrains.com/pycharm/), and the classics, like vi(m) or emacs. 
 
-I recommend [VSCode](https://code.visualstudio.com/), and is what I use for presenting and preparing this talk.
+I recommend [VSCode](https://code.visualstudio.com/), and is what I use for presenting and preparing this talk. It also does a lot more than just syntax highlighting, it's open source, it works on most operating systems, can be used for multiple languages and there are a ton of plugins for it. 
 
 If you are using VSCode, you need to install the Python extension to get code highlighting. 
 
 ![Setup Python Extensions in VSCode, easy as 123.](Images/PythonExtensionVSCode.PNG)
 
-The final step with VSCode is to change the interpreter. It should by default find the default system interpreter, but if you ever need to change it (for instance, to a different virtual environment, see the next section) type Ctrl+Shift+P and either scroll to select select, or start typing until "Python: Select Interpreter" is highlighted. From here you can select from different interpreters. If you have more than one, select the one that says version 3.x (matching whatever version you installed.)
+The final step with VSCode is to change the interpreter. It should by default find the default system interpreter, but if you ever need to change it (for instance, to a different virtual environment, see the next section) type Ctrl+Shift+P and either scroll to select, or start typing until "Python: Select Interpreter" is highlighted. From here you can select from different interpreters. If you have more than one, select the one that says version 3.x (matching whatever version you installed.)
 
 Next: [Virtual Environments](VirtualEnvironments.md)
