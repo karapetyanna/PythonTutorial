@@ -10,4 +10,4 @@ In this talk, we'll get you set up with Python on your computer and work through
   * Jupiter Notebooks
 4. Libraries
 5. Basic Python
-6. Fun Exercise: Hacking Idle clicker Games
+6. Fun Exercise: Hacking idle clicker Games

@@ -6,9 +6,6 @@ In these tutorials, the goal is to introduce Python to a non-specialist audience
 1. [Setting up your computer](01-FirstSteps/Preparation.md)
 2. [Virtual environments](01-FirstSteps/VirtualEnvironments.md)
 3. How to run Python:
-  * Interactive (iPython)
-  * Scripts (command line)
-  * Jupiter Notebooks
 4. Libraries
 5. Basic Python
-6. Fun Exercise: Hacking Idle clicker Games
+6. Fun Exercise: Hacking idle clicker Games
