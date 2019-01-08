@@ -24,9 +24,13 @@ Explore the functions available in the library. Look for ones that might allow y
 
 ## My solution:
 
+<details><summary>CLICK ME</summary>
+
 Mouse over the button, and then run:
 
 ```python
 x, y = pyautogui.position()
 pyautogui.click(x, y, 100)
 ```
+
+</details>
