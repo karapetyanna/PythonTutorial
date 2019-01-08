@@ -96,6 +96,6 @@ import hello_program
 print hello_program.generate_greeting()
 ```
 
-You've now used your program interactively and include it in other programs. Notice that "Hello World!" wasn't printed when the file was imported. This is due to the if __name__=="__main__" conditional statement returning false on import. The __name__ variable is set by the interpreter when the program is first started. It is set to "__main__" when the program is run as script, but given the module name when run as a module.
+You've now used your program interactively and include it in other programs. Notice that "Hello World!" wasn't printed when the file was imported. This is due to the if \__name__=="\__main__" conditional statement returning false on import. The \__name__ variable is set by the interpreter when the program is first started. It is set to "\__main__" when the program is run as script, but given the module name when run as a module.
 
 Next: Fun Exercise - [Hacking idle clicker games](IdleClicker.md)
