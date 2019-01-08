@@ -8,5 +8,5 @@ In this talk, we'll get you set up with Python on your computer and work through
   * Interactive (iPython)
   * Scripts (command line)
   * Jupiter Notebooks
-4. [Libraries](Libraries.md)
+4. [Libraries/Modules](Libraries.md)
 5. Fun Exercise: [Hacking idle clicker games](IdleClicker.md)
