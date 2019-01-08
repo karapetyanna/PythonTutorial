@@ -33,6 +33,15 @@ There are several ways to import libaries. Each one has implications for namespa
 
 When you import a library/module, you are given access the many of the functions, classes and variables in those libraries. To prevent name collisions, the standard import method prepends the name of the library to the element you are calling:
 
+## The Python Manifesto
+
+Try:
+
+```python
+import this
+```
+
+
 ```python
 import math
 math.sqrt(4)
