@@ -22,7 +22,8 @@ import pyautogui
 
 Explore the functions available in the library. Look for ones that might allow you to read the cursor position and generate clicks at a particular position.
 
-<details><summary>## My solution:</summary>
+## My solution:
+<details><summary> </summary>
 
 Mouse over the button, and then run:
 
